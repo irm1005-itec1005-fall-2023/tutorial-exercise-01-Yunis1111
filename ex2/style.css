@@ -1,0 +1,55 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:peachpuff;
+  
+      display: flex;
+      justify-content:center ;
+      align-items:center;
+  
+      margin-left: 1rem;
+      margin-right: 1rem;
+      margin-top: 25rem;
+      margin-bottom: 25rem;
+  
+  
+  
+  }
+  
+  .perfume-container{
+    display: flex;
+    background-color:beige;
+    border-radius:1rem
+  
+  
+  
+  
+  }
+  
+  .btn
+   {
+    margin-top: 3rem;
+    background-color: green;
+    color: white;
+    padding:0.5rem 1rem;
+    border-radius: 1rem;
+    text-decoration: none;
+   
+   }
+  
+   .img {
+    max-width: 60%;
+    max-height: 100%;
+    float:left;
+    border-radius:1rem
+   }
+  
+   .text {
+    font-size: 1.2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 1rem;
+    text-align: center;
+  
+  
+  
+   }
